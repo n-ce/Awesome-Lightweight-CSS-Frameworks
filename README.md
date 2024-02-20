@@ -8,6 +8,12 @@
 
 ## [Tacit](https://yegor256.github.io/tacit/)
 - [![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)](https://github.com/yegor256/tacit)
--  [![](https://img.shields.io/github/release-date/yegor256/tacit)](https://github.com/yegor256/tacit/releases)
+-  [![](https://img.shields.io/github/release-date/yegor256/tacit)](https://github.com/yegor256/tacit/releases) / September 2023
 - CDN : https://cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css
 - a CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages.
+
+## [Bamboo](https://rilwis.github.io/bamboo/)
+- [![](https://img.shields.io/github/stars/rilwis/bamboo.svg?style=social&label=Star)](https://github.com/rilwis/bamboo)
+-  [![](https://img.shields.io/github/release-date/rilwis/bamboo)](https://github.com/rilwis/bamboo/releases)
+-  CDN : https://unpkg.com/bamboo.css
+-  A classless CSS library which adds nice default style for all HTML elements. It can also be used as a base style for your blog/website.

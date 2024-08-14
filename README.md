@@ -14,7 +14,7 @@
 
 ## [Bamboo](https://rilwis.github.io/bamboo/)
 - [![](https://img.shields.io/github/stars/rilwis/bamboo.svg?style=social&label=Star)](https://github.com/rilwis/bamboo)
--  September 2023 / [![](https://img.shields.io/github/release-date/rilwis/bamboo)](https://github.com/rilwis/bamboo/releases)
+-  April 2024 / [![](https://img.shields.io/github/release-date/rilwis/bamboo)](https://github.com/rilwis/bamboo/releases)
 -  CDN : https://unpkg.com/bamboo.css
 -  A classless CSS library which adds nice default style for all HTML elements. It can also be used as a base style for your blog/website.
 

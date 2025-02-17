@@ -6,6 +6,18 @@
   - CDN : https://unpkg.com/sakura.css/css/sakura.css
   - Just drop it in to any webpage and go from ugly looking 1900's website to a pretty modern website in literally 0 seconds.
 
+## [MVP](https://andybrewer.github.io/mvp/)
+- [![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)](https://github.com/andybrewer/mvp)
+-  [![](https://img.shields.io/github/release-date/andybrewer/mvp)](https://github.com/andybrewer/mvp/releases)
+- CDN : https://unpkg.com/mvp.css
+- Minimalist classless CSS stylesheet for HTML elements
+
+## [Simple](https://simplecss.org/)
+- [![](https://img.shields.io/github/stars/kevquirk/simple.css.svg?style=social&label=Star)](https://github.com/kevquirk/simple.css)
+-  [![](https://img.shields.io/github/release-date/kevquirk/simple.css)](https://github.com/kevquirk/simple.css/releases)
+- CDN : https://unpkg.com/simpledotcss/simple.css
+- CSS template that allows you to make a good looking website really quickly.
+
 ## [Tacit](https://yegor256.github.io/tacit/)
 - [![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)](https://github.com/yegor256/tacit)
 -  [![](https://img.shields.io/github/release-date/yegor256/tacit)](https://github.com/yegor256/tacit/releases)

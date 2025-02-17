@@ -15,7 +15,7 @@
 ## [Simple](https://simplecss.org/)
 - [![](https://img.shields.io/github/stars/kevquirk/simple.css.svg?style=social&label=Star)](https://github.com/kevquirk/simple.css)
 -  [![](https://img.shields.io/github/release-date/kevquirk/simple.css)](https://github.com/kevquirk/simple.css/releases)
-- CDN : https://unpkg.com/simpledotcss/simple.css
+- CDN : https://unpkg.com/simpledotcss/simple.min.css
 - CSS template that allows you to make a good looking website really quickly.
 
 ## [Tacit](https://yegor256.github.io/tacit/)
